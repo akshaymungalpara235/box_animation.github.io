@@ -15,8 +15,8 @@ This is a Flutter application that features a red square that moves to the left 
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/moving-square.git
-   cd moving-square
+   git clone https://github.com/akshaymungalpara235/box_animation.github.io.git
+   cd box_animation.github.io
    ```
 2. Ensure you have Flutter installed. You can check with:
    ```sh
